@@ -28,7 +28,7 @@ const axios = require("axios")
 const cheerio = require("cheerio")
 
 // Konfigurasi
-const BASE_URL = "https://komikindo2.com"
+const BASE_URL = "https://komikindo.ch"
 const USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:118.0) Gecko/20100101 Firefox/118.0"
 
 // Inisialisasi aplikasi Express
